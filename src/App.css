@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #040303;
+  color: #d8d7d2;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  padding: 0 5%;
+}
